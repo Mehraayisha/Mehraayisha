@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! 👋 I'm Mehra</h1>  
 <p align="center">
-🚀 Computer Science Student | 💻 Backend Developer | 📚 Learning Django & PostgreSQL  
+🚀 Undergraduate Student at College of Engineering, Trivandrum | 💻 Backend Developer  
 </p>  
 
 ---
 
 ### 🔹 **About Me**  
-- 🎓 Studying **Computer Science**  
+- 🎓 **Undergraduate Student at College of Engineering, Trivandrum**  
 - 💡 Passionate about **Backend Development**  
 - 🌱 Currently learning **Django & PostgreSQL**  
-- 📫 Reach me at: mehratacharakkal@gmail.com  
+- 📫 Reach me at: mehratacharakkal@gmail.com  ù
 
 ---
 
@@ -38,7 +38,4 @@
 
 ### 🌍 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehra-ayisha-91bb0a291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehraayisha)  
-
----
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehraayisha)
