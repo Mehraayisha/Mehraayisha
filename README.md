@@ -9,7 +9,7 @@
 - 🎓 Studying **Computer Science**  
 - 💡 Passionate about **Backend Development**  
 - 🌱 Currently learning **Django & PostgreSQL**  
-- 📫 Reach me at: your.email@example.com  
+- 📫 Reach me at: mehratacharakkal@gmail.com  
 
 ---
 
