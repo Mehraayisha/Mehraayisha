@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Mehra</h1>  
 <p align="center">
-🚀 Undergraduate Student at College of Engineering, Trivandrum | 💻 Backend Developer  
+🚀 Undergraduate Student at College of Engineering, Trivandrum  
 </p>  
 
 ---
