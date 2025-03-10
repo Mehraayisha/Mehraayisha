@@ -9,8 +9,7 @@
 - 🎓 **Undergraduate Student at College of Engineering, Trivandrum**  
 - 💡 Passionate about **Backend Development**  
 - 🌱 Currently learning **Django & PostgreSQL**  
-- 📫 Reach me at: mehratacharakkal@gmail.com  ù
-
+- 📫 Reach me at: mehratacharakkal@gmail.com 
 ---
 
 ### 🛠 **Tech Stack**  
