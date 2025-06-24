@@ -5,12 +5,6 @@
 
 ---
 
-### 🔹 **About Me**  
-- 🎓 **Undergraduate Student at College of Engineering, Trivandrum**  
-- 💡 Passionate about **Backend Development**  
-- 📫 Reach me at: mehratacharakkal@gmail.com  
-
----
 
 ### 🛠 **Tech Stack**  
 **Languages & Frameworks:**  
