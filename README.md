@@ -29,7 +29,6 @@
 ---
 
 ### 🌍 **Let's Connect!**  
-### 🌍 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehra-ayisha-91bb0a291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mehra.ayshah?igsh=NGY4NHkyeXh4bXMy)
 
